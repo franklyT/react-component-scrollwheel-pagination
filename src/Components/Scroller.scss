@@ -1,0 +1,44 @@
+.Scroller__example {
+    display: block;
+    
+    width: fit-content;
+    height: fit-content;
+
+    background-color: white;
+
+    margin: auto;
+
+    font-size: 1.3em;
+
+    overflow-y: scroll;
+            
+    -ms-overflow-style: none; 
+    scrollbar-width: none; 
+
+    &:after {
+        content: '';
+        position: relative;
+        display: block;
+        margin-bottom: -20px;
+        height: 20px;
+        width: 500px;
+    }
+    
+    ::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        width: 15px;
+        height: 15px;
+        border:1px solid black;
+    }
+    ::-webkit-scrollbar { 
+        display: none; 
+    }
+}
+
+
+.Scroller__content {
+    height: 20vw;
+    width: 20vw;
+
+    padding: 1em;
+}
