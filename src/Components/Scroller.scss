@@ -24,13 +24,13 @@
         width: 500px;
     }
     
-    ::-webkit-slider-thumb {
+    &::-webkit-slider-thumb {
         -webkit-appearance: none;
         width: 15px;
         height: 15px;
         border:1px solid black;
     }
-    ::-webkit-scrollbar { 
+    &::-webkit-scrollbar { 
         display: none; 
     }
 }
