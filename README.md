@@ -6,6 +6,6 @@ However, we hi-jack this behavior in order to create a scrolling-pagination effe
 
 Scrolling outside of the tagged component is not affected.
 
-Note: This is buggy in Firefox, and seems to jutter slightly when scrolled. This doesn't happen in Chrome.
+Note: It can be a bit juttery in Firefox. This doesn't happen in Chrome.
 
 See live build [here](https://franklyt.github.io/react-component-scrollwheel-pagination/).
