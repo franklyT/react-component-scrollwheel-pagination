@@ -2,6 +2,7 @@
 
 I used this recently in a project after trying to develop such functionality, note of which was sparse on the internet. I'm throwing it up here in hopes it may help someone, somewhere, where I failed to find similar examples.
 
+
 Anyways, aside, from being a mouthful, this is a basic concept using React that implements the ability to construct components that are by default, when rendered, as far as the browser is concerned, 'scrollable' via the mousewheel in an up or down fashion, but not scrollable in any meaningful way.
 
 To explain further: we are able to capture scrolls and the directionality of scrolls, but we hi-jack this behavior by creating the illusion that no scroll ocurred, giving us the ability to discern scroll directionality via window offset differences, but maintaining complete control over the actual scrolling behavior.
