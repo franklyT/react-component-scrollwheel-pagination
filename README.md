@@ -10,4 +10,4 @@ Scrolling outside of the tagged component is not affected.
 
 Note: It can be a bit juttery in Firefox. This doesn't happen in Chrome.
 
-See live build [here](https://franklyt.github.io/react-component-scrollwheel-pagination/).
+#See live build [here](https://franklyt.github.io/react-component-scrollwheel-pagination/).
