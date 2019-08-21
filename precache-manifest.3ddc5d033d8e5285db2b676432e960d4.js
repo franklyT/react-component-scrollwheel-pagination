@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ae1210eae0f003151e6277ec2149991",
+    "revision": "fd97f12a9145a1aef76ad5c8fd6327b9",
     "url": "/react-component-scrollwheel-pagination/index.html"
   },
   {
-    "revision": "dd153dd6564a31e7a093",
-    "url": "/react-component-scrollwheel-pagination/static/css/main.cd28c85b.chunk.css"
+    "revision": "f5970f9136d6d2bb2d5b",
+    "url": "/react-component-scrollwheel-pagination/static/css/main.c8bf60df.chunk.css"
   },
   {
     "revision": "f2629dbf6e0d87c9e840",
     "url": "/react-component-scrollwheel-pagination/static/js/2.fdece18f.chunk.js"
   },
   {
-    "revision": "dd153dd6564a31e7a093",
+    "revision": "f5970f9136d6d2bb2d5b",
     "url": "/react-component-scrollwheel-pagination/static/js/main.62c00137.chunk.js"
   },
   {

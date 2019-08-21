@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-component-scrollwheel-pagination/static/css/main.cd28c85b.chunk.css",
+    "main.css": "/react-component-scrollwheel-pagination/static/css/main.c8bf60df.chunk.css",
     "main.js": "/react-component-scrollwheel-pagination/static/js/main.62c00137.chunk.js",
     "main.js.map": "/react-component-scrollwheel-pagination/static/js/main.62c00137.chunk.js.map",
     "runtime~main.js": "/react-component-scrollwheel-pagination/static/js/runtime~main.b74e72c6.js",
@@ -8,8 +8,8 @@
     "static/js/2.fdece18f.chunk.js": "/react-component-scrollwheel-pagination/static/js/2.fdece18f.chunk.js",
     "static/js/2.fdece18f.chunk.js.map": "/react-component-scrollwheel-pagination/static/js/2.fdece18f.chunk.js.map",
     "index.html": "/react-component-scrollwheel-pagination/index.html",
-    "precache-manifest.55dd37b8b3f551379e239dcde10fe69b.js": "/react-component-scrollwheel-pagination/precache-manifest.55dd37b8b3f551379e239dcde10fe69b.js",
+    "precache-manifest.3ddc5d033d8e5285db2b676432e960d4.js": "/react-component-scrollwheel-pagination/precache-manifest.3ddc5d033d8e5285db2b676432e960d4.js",
     "service-worker.js": "/react-component-scrollwheel-pagination/service-worker.js",
-    "static/css/main.cd28c85b.chunk.css.map": "/react-component-scrollwheel-pagination/static/css/main.cd28c85b.chunk.css.map"
+    "static/css/main.c8bf60df.chunk.css.map": "/react-component-scrollwheel-pagination/static/css/main.c8bf60df.chunk.css.map"
   }
 }
